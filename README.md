@@ -1,0 +1,1 @@
+# Android-Device-Static-Specs-Database
