@@ -1,5 +1,10 @@
 # Android Device Hardware Specs (CPU SoC) Database
 
+Disclaimer: This is probably very incomplete and very wrong in a lot of places as I assume consistency (which Android usually doesn't have...) in board names.  
+For example Exynos: all new(-ish, S6+?) boards are 'universalXXXX'. But connecting old devices I found that board could be named 'smdk4x12' ¯\\_(ツ)_/¯
+
+So if you find any mistakes or want to add information PLEASE DO. (But please try keeping alphabetical order for keys : ))
+
 Database containing information about Android 4.1+ device CPU and SoC specs
 
 Using 
