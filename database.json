@@ -294,5 +294,9 @@
   "z4u":{
     "CPU":"4x Cortex-A5 @ 1.2GHz",
     "SoC":"Snapdragon 200 MSM8225Q"
+  },
+  "wikipad":{
+    "CPU":"4x Cortex-A9 @ 1.3GHz 1x Cortex-A9 @ 0.5GHz",
+    "SoC":"nVIDIA Tegra 3 T30L"
   }
 }
