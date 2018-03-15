@@ -123,6 +123,10 @@
       "CPU":"4x Qualcomm Kryo 280 HP @ 2.4GHz 4x Qualcomm Kryo 280 LP @ 1.9GHz",
       "SoC":"Snapdragon 835 MSM8998"
     },
+    "mt6795t":{
+      "CPU":"8x Cortex-A53 @ 2.1GHz",
+      "SoC":"MediaTek Helio X10 MT6795T"
+    },
     "sdm845":{  
       "CPU":"4x Qualcom Kryo 385 Gold @ 2.7GHz 4x Qualcom Kryo 385 Silver @ 1.7GHz",
       "SoC":"Snapdragon 652 MSM8976"
