@@ -27,6 +27,10 @@
     "CPU":"2x Cortex-A9 @ 1.2GHz",
     "SoC":"Broadcom BCM21664T"
   },
+  "mocha":{
+    "CPU":"4x Cortex-A15 @2.2GHz",
+    "SoC":"nVIDIA Tegra K1 T124"
+  },
   "msm8225":{
     "CPU":"2x Cortex-A5 @ 1.2GHz",
     "SoC":"Snapdragon S4 MSM8225"
