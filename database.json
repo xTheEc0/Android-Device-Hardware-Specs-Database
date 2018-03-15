@@ -171,6 +171,10 @@
     "CPU":"1x Cortex-A8 @ 1.2GHz",
     "SoC":"Exynos 3 Single 3110"
   },
+  "saturn":{
+    "CPU":"4x Krait 450 @ 2.45GHz",
+    "SoC":"Snapdragon 805 APQ8084"
+  },
   "sc-02b":{
     "CPU":"1x Cortex-A8 @ 1.2GHz",
     "SoC":"Exynos 3 Single 3110"
