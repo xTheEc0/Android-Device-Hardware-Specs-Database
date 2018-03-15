@@ -163,6 +163,10 @@
     "CPU":"4x Qualcom Kryo 385 Gold @ 2.7GHz 4x Qualcom Kryo 385 Silver @ 1.7GHz",
     "SoC":"Snapdragon 652 MSM8976"
   },
+  "piranha":{
+    "CPU":"2x Cortex-A9 @ 1.0GHz",
+    "SoC":"Texas Instruments OMAP4430"
+  },
   "pxa986":{
     "CPU":"2x Cortex-A9 @ 1.2GHz",
     "SoC":"Marvell PXA988"
