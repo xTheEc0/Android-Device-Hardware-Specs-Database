@@ -151,9 +151,13 @@
       "CPU":"4x Cortex-A7 @ 1.3GHz",
       "SoC":"Spreadtrum SC7730S"
     },
-      "SMDKC110":{  
+    "SMDKC110":{  
       "CPU":"1x Cortex-A8 @ 1.2GHz",
       "SoC":"Exynos 3 Single 3110"
+    },
+    "tuna":{
+      "CPU":"2x Cortex-A9 @ 1.2GHz",
+      "SoC":"TI OMAP 4460"
     },
     "universal3250":{  
       "CPU":"2x Cortex-A7 @ 1.0GHz",
