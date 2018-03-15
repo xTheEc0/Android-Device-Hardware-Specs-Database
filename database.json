@@ -147,6 +147,10 @@
     "CPU":"8x Cortex-A53 @ 2.1GHz",
     "SoC":"MediaTek Helio X10 MT6795T"
   },
+  "mtk6565":{
+    "CPU":"1x Cortex-A9 @ 1.0GHz",
+    "SoC":"MediaTek MT6575"
+  },
   "sdm845":{
     "CPU":"4x Qualcom Kryo 385 Gold @ 2.7GHz 4x Qualcom Kryo 385 Silver @ 1.7GHz",
     "SoC":"Snapdragon 652 MSM8976"
