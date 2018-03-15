@@ -55,6 +55,10 @@
     "CPU":"2x Krait @ 1.2GHz",
     "SoC":"Snapdragon S4 Plus MSM8230"
   },
+  "msm8660_surf":{
+    "CPU":"2x Scorpion @ 1.5GHz",
+    "SoC":"Snapdragon S3 MSM8260"
+  },
   "msm8630":{
     "CPU":"2x Krait @ 1.2GHz",
     "SoC":"Snapdragon S4 Plus MSM8630"
