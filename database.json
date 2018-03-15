@@ -19,6 +19,10 @@
     "CPU":"4x Atom Z2520 @ 1.2GHz",
     "SoC":"Intel Atom Z2520"
   },
+  "gee":{
+    "CPU":"4x Krait 300 @ 1.5GHz",
+    "SoC":"Snapdragon S4 Pro APQ8064"
+  },
   "grouper":{
     "CPU":"4x Cortex-A9 @ 1.3GHz 1x Cortex-A9 @ 0.5GHz",
     "SoC":"nVIDIA Tegra 3 T30L"
