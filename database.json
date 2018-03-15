@@ -258,5 +258,9 @@
     "universal9810":{  
       "CPU":"4x Cortex-A55 @ 1.7GHz 4x Samsung Exynos M3 @ 2.8GHz",
       "SoC":"Exynos 9 Series 9810"
+    },
+    "z4u":{
+      "CPU":"4x Cortex-A5 @ 1.2GHz",
+      "SoC":"Snapdragon 200 MSM8225Q"
     }
   }
