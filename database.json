@@ -1,4 +1,8 @@
 {
+    "test":{
+      "CPU":"test",
+      "SoC":"test"
+    },
     "codina":{
       "CPU":"2x Cortex-A9 @ 1.0GHz",
       "SoC":"NovaThor U8500"
