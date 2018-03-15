@@ -19,6 +19,10 @@
     "CPU":"4x Atom Z2520 @ 1.2GHz",
     "SoC":"Intel Atom Z2520"
   },
+  "ford":{
+    "CPU":"4x Cortex-A7 @ 1.3GHz",
+    "SoC":"MediaTek MT8127"
+  },
   "g3u":{
     "CPU":"2x Cortex-A5 @ 1.0GHz",
     "SoC":"Snapdragon S4 Play MSM8225"
