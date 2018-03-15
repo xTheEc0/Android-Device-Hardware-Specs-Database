@@ -171,6 +171,10 @@
     "CPU":"1x Cortex-A8 @ 1.2GHz",
     "SoC":"Exynos 3 Single 3110"
   },
+  "sc-i905":{
+    "CPU":"2x Cortex-A9 @ 1.0GHz",
+    "SoC":"nVIDIA Tegra 2 T20"
+  },
   "sc7730s":{
     "CPU":"4x Cortex-A7 @ 1.3GHz",
     "SoC":"Spreadtrum SC7730S"
