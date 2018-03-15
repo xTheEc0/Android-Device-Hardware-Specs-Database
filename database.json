@@ -1,8 +1,4 @@
 {
-    "test":{
-      "CPU":"test",
-      "SoC":"test"
-    },
     "codina":{
       "CPU":"2x Cortex-A9 @ 1.0GHz",
       "SoC":"NovaThor U8500"
@@ -14,6 +10,10 @@
     "dragon":{
       "CPU":"4x Cortex-A57 @ 1.9GHz 4x Cortex-A53 @ 1.3GHz",
       "SoC":"nVIDIA Tegra X1 T210"
+    },
+    "eeepad":{
+      "CPU":"4x Atom Z2520 @ 1.2GHz",
+      "SoC":"Intel Atom Z2520"
     },
     "grouper":{  
       "CPU":"4x Cortex-A9 @ 1.3GHz 1x Cortex-A9 @ 0.5GHz",
