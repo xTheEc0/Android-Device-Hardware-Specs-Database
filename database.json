@@ -151,6 +151,10 @@
     "CPU":"2x Cortex-A72 @ 1.8GHz 4x Cortex-A53 @ 1.4GHz",
     "SoC":"Snapdragon 650 MSM8956"
   },
+  "msm8974":{
+    "CPU":"4x Krait 400 @ 2.15GHz",
+    "SoC":"Snapdragon 800 MSM8974"
+  },
   "msm8974pro-ab":{
     "CPU":"4x Krait 400 @ 2.26GHz",
     "SoC":"Snapdragon 801 MSM8974PRO-AB"
