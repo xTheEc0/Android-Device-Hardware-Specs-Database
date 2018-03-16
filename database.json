@@ -27,6 +27,10 @@
     "CPU":"4x Krait 300 @ 1.5GHz",
     "SoC":"Snapdragon 600 APQ8064-FLO"
   },
+  "flounder":{
+    "CPU":"2x nVidia Denver @ 2.5GHz",
+    "SoC":"nVIDIA Tegra K1 T132"
+  },
   "g3u":{
     "CPU":"2x Cortex-A5 @ 1.0GHz",
     "SoC":"Snapdragon S4 Play MSM8225"
