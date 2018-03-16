@@ -43,6 +43,10 @@
     "CPU":"4x Cortex-A9 @ 1.3GHz 1x Cortex-A9 @ 0.5GHz",
     "SoC":"nVIDIA Tegra 3 T30L"
   },
+  "hammerhead":{
+    "CPU":"4x Krait 400 @ 2.26GHz",
+    "SoC":"Snapdragon 800 MSM8974"
+  },
   "hawaii_ss_kylepro":{
     "CPU":"2x Cortex-A9 @ 1.2GHz",
     "SoC":"Broadcom BCM21664T"
