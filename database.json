@@ -47,6 +47,10 @@
     "CPU":"2x Cortex-A9 @ 1.2GHz",
     "SoC":"Broadcom BCM21664T"
   },
+  "marlin":{
+    "CPU":"2x Kryo HP @ 2.15GHz 2x Kryo @ 1.6GHz",
+    "SoC":"Snapdragon 821 MSM8996 Pro"
+  },
   "mocha":{
     "CPU":"4x Cortex-A15 @2.2GHz",
     "SoC":"nVIDIA Tegra K1 T124"
