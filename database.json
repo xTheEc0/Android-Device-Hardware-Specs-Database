@@ -7,6 +7,10 @@
     "CPU":"Atom Z3745 @ 1.3GHz",
     "SoC":"Intel Atom Z3745"
   },
+  "capri":{
+    "CPU":"2x Cortex-A9 @ 1.2GHz",
+    "SoC":"Broadcom BCM28155"
+  },
   "codina":{
     "CPU":"2x Cortex-A9 @ 1.0GHz",
     "SoC":"NovaThor U8500"
