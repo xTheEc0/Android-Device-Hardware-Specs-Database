@@ -153,7 +153,7 @@
   },
   "msm8994":{
     "CPU":"4x Cortex-A57 @ 1.95GHz 4x Cortex-A53 @ 1.5GHz",
-    "SoC":"snapdragon 810 MSM8994"
+    "SoC":"Snapdragon 810 MSM8994"
   },
   "msm8998":{
     "CPU":"4x Qualcomm Kryo 280 HP @ 2.4GHz 4x Qualcomm Kryo 280 LP @ 1.9GHz",
