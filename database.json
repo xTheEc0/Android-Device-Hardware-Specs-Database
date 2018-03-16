@@ -323,6 +323,10 @@
     "CPU":"4x Cortex-A55 @ 1.7GHz 4x Samsung Exynos M3 @ 2.8GHz",
     "SoC":"Exynos 9 Series 9810"
   },
+  "taimen":{
+    "CPU":"4x Kryo 280 HP @ 2.45GHz 4x Kryo 280 LP @ 1.9GHz",
+    "SoC":"Snapdragon 835 MSM8998"
+  },
   "thebes":{
     "CPU":"2x Cortex-A15 @ 1.5GHz 2x Cortex-A7 @ 1.2GHz",
     "SoC":"MediaTek MT8135"
