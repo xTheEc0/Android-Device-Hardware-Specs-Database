@@ -191,6 +191,10 @@
     "CPU":"4x Cortex-A57 @ 1.95GHz 4x Cortex-A53 @ 1.5GHz",
     "SoC":"Snapdragon 810 MSM8994"
   },
+  "msm8996":{
+    "CPU":"2x Kryo HP @ 1.8GHz 2x Kryo LP @ 1.36GHz",
+    "SoC":"Snapdragon 820 MSM8996"
+  },
   "msm8998":{
     "CPU":"4x Qualcomm Kryo 280 HP @ 2.4GHz 4x Qualcomm Kryo 280 LP @ 1.9GHz",
     "SoC":"Snapdragon 835 MSM8998"
