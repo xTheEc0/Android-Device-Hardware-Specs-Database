@@ -19,6 +19,10 @@
     "CPU":"4x Atom Z2520 @ 1.2GHz",
     "SoC":"Intel Atom Z2520"
   },
+  "endeavoru":{
+    "CPU":"4x Cortex-A9 @ 1.5GHz 1x Cortex-A9 @ 0.5GHz",
+    "SoC":"nVIDIA Tegra 3 AP33"
+  },
   "ford":{
     "CPU":"4x Cortex-A7 @ 1.3GHz",
     "SoC":"MediaTek MT8127"
