@@ -1,4 +1,8 @@
 {
+  "angler":{
+    "CPU":"4x Cortex-A57 @ 1.95GHz 4x Cortex-A53 @ 1.55GHz",
+    "SoC":"Snapdragon 810 MSM8994"
+  },
   "baylake":{
     "CPU":"Atom Z3745 @ 1.3GHz",
     "SoC":"Intel Atom Z3745"
