@@ -19,6 +19,10 @@
     "CPU":"2x Atom Z2560 @ 1.6GHz",
     "SoC":"Intel Atom Z2560"
   },
+  "db8520h":{
+    "CPU":"2x Cortex-A9 @ 1.0GHz",
+    "SoC":"NovaThor U8500"
+  },
   "dragon":{
     "CPU":"4x Cortex-A57 @ 1.9GHz 4x Cortex-A53 @ 1.3GHz",
     "SoC":"nVIDIA Tegra X1 T210"
