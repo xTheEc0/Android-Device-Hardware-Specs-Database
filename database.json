@@ -23,6 +23,10 @@
     "CPU":"4x Cortex-A7 @ 1.3GHz",
     "SoC":"MediaTek MT8127"
   },
+  "flo":{
+    "CPU":"4x Krait 300 @ 1.5GHz",
+    "SoC":"Snapdragon 600 APQ8064-FLO"
+  },
   "g3u":{
     "CPU":"2x Cortex-A5 @ 1.0GHz",
     "SoC":"Snapdragon S4 Play MSM8225"
