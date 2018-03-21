@@ -7,6 +7,10 @@
     "CPU":"Atom Z3745 @ 1.3GHz",
     "SoC":"Intel Atom Z3745"
   },
+  "bullhead":{
+    "CPU":"4x Cortex-A57 @ 1.8GHz 4x Cortex-A53 @ 1.44GHz",
+    "SoC":"Snapdragon 808"
+  },
   "capri":{
     "CPU":"2x Cortex-A9 @ 1.2GHz",
     "SoC":"Broadcom BCM28155"
