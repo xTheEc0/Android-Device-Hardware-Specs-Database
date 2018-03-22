@@ -15,6 +15,10 @@
     "CPU":"2x Cortex-A9 @ 1.2GHz",
     "SoC":"Broadcom BCM28155"
   },
+  "cheryl":{
+    "CPU":"4x Kryo 280 HP @ 2.45GHz 4x Kryo 280 LP @ 1.9GHz",
+    "SoC":"Snapdragon 835 MSM8998"
+  },
   "codina":{
     "CPU":"2x Cortex-A9 @ 1.0GHz",
     "SoC":"NovaThor U8500"
@@ -200,7 +204,7 @@
     "SoC":"Snapdragon 820 MSM8996"
   },
   "msm8998":{
-    "CPU":"4x Qualcomm Kryo 280 HP @ 2.4GHz 4x Qualcomm Kryo 280 LP @ 1.9GHz",
+    "CPU":"4x Kryo 280 HP @ 2.4GHz 4x Kryo 280 LP @ 1.9GHz",
     "SoC":"Snapdragon 835 MSM8998"
   },
   "mt6795t":{
@@ -212,7 +216,7 @@
     "SoC":"MediaTek MT6575"
   },
   "sdm845":{
-    "CPU":"4x Qualcom Kryo 385 Gold @ 2.7GHz 4x Qualcom Kryo 385 Silver @ 1.7GHz",
+    "CPU":"4x Kryo 385 Gold @ 2.7GHz 4x Kryo 385 Silver @ 1.7GHz",
     "SoC":"Snapdragon 652 MSM8976"
   },
   "gt-p7510":{
