@@ -247,6 +247,10 @@
     "CPU":"4x Krait 450 @ 2.45GHz",
     "SoC":"Snapdragon 805 APQ8084"
   },
+  "sailfish":{
+    "CPU":"2x Kryo HP @ 2.15GHz 2x Kryo @ 1.6GHz",
+    "SoC":"Snapdragon 821 MSM8996 Pro"
+  },
   "sc-02b":{
     "CPU":"1x Cortex-A8 @ 1.2GHz",
     "SoC":"Exynos 3 Single 3110"
