@@ -38,7 +38,8 @@ Google Pixel
 
 	adb shell getprop ro.product.board => walleye
 	adb shell cat /proc/cpuinfo => MSM8998
-	// cpuinfo does not contain board, but this device has a unique entry in the database, so we can use the board as key  
+	// cpuinfo does not contain board, but this device has a unique entry  
+	// in the database, so we can use the board as key  
 	database.json[walleye] => 
     
 	"CPU":"2x Kryo HP @ 2.15GHz 2x Kryo @ 1.6GHz",
