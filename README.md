@@ -34,7 +34,7 @@ Samsung Galaxy S9 (Europe)
 	"CPU":"4x Cortex-A55 @ 1.7GHz 4x Samsung Exynos M3 @ 2.8GHz",	
    	"SoC":"Exynos 9 Series 9810"
 
-Google Pixel
+Google Pixel 2 (non XL)
 
 	adb shell getprop ro.product.board => walleye
 	adb shell cat /proc/cpuinfo => MSM8998
