@@ -27,6 +27,10 @@
     "CPU":"2x Atom Z2560 @ 1.6GHz",
     "SoC":"Intel Atom Z2560"
   },
+  "clt":{
+    "CPU":"4x Cortex-A73 @ 2.36GHz 4x Cortex-A53 @ 1.8GHz",
+    "SoC":"HiSilicon Kirin 970"
+  },
   "db8520h":{
     "CPU":"2x Cortex-A9 @ 1.0GHz",
     "SoC":"NovaThor U8500"
