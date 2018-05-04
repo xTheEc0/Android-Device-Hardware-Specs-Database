@@ -407,6 +407,10 @@
     "CPU":"4x Cortex-A9 @ 1.3GHz 1x Cortex-A9 @ 0.5GHz",
     "SoC":"nVIDIA Tegra 3 T30L"
   },
+  "qc_reference_phone":{
+    "CPU":"2x Kryo HP @ 2.15GHz 2x Kryo LP @ 1.36GHz",
+    "SoC":"Snapdragon 820 MSM8996"
+  },
   "z4u":{
     "CPU":"4x Cortex-A5 @ 1.2GHz",
     "SoC":"Snapdragon 200 MSM8225Q"
