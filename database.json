@@ -224,8 +224,8 @@
     "SoC":"MediaTek MT6575"
   },
   "sdm845":{
-    "CPU":"4x Kryo 385 Gold @ 2.7GHz 4x Kryo 385 Silver @ 1.7GHz",
-    "SoC":"Snapdragon 652 MSM8976"
+    "CPU":"4x Kryo 385 Gold @ 2.8GHz 4x Kryo 385 Silver @ 1.7GHz",
+    "SoC":"Snapdragon 845 SDM845"
   },
   "gt-p7510":{
     "CPU":"2x Cortex-A9 @ 1.0GHz",
