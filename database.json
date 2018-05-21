@@ -95,6 +95,9 @@
     "CPU":"2x Cortex-A5 @ 1.2GHz",
     "SoC":"Snapdragon S4 MSM8225"
   },
+  "msm8226":{
+    "CPU":"4x Cortex-A7 @ 1.19GHz",
+    "SoC":"Snapdragon 400 MSM8226"
   "msm8625":{
     "CPU":"2x Cortex-A5 @ 1.2GHz",
     "SoC":"Snapdragon S4 MSM8625"
