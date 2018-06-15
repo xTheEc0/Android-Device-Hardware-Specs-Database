@@ -175,6 +175,9 @@
     "CPU":"4x Cortex-A53 @ 1.2GHz",
     "SoC":"Snapdragon 410 MSM8916"
   },
+  "msm8953":{
+    "CPU":"8x Cortex-A53 @ 2.0GHz",
+    "SoC":"Snapdragon 625 (MSM8953)"
   "msm8952":{
     "CPU":"8x Cortex-A53 @ 1.2GHz",
     "SoC":"Snapdragon 617 MSM8952"
