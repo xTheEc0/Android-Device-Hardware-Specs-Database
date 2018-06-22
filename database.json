@@ -47,6 +47,10 @@
     "CPU":"4x Cortex-A9 @ 1.5GHz 1x Cortex-A9 @ 0.5GHz",
     "SoC":"nVIDIA Tegra 3 AP33"
   },
+  "eva-l19":{
+    "CPU":"4x Krait @ 1.5GHz",
+    "SoC":"Snapdragon S4 Pro APQ8084"
+  },
   "ford":{
     "CPU":"4x Cortex-A7 @ 1.3GHz",
     "SoC":"MediaTek MT8127"
@@ -85,7 +89,7 @@
   },
   "mako":{
     "CPU":"4x Krait @ 1.5GHz",
-    "SoC":"Snapdragon S4 Pro (APQ8064)"
+    "SoC":"Snapdragon S4 Pro APQ8064"
   },
   "marlin":{
     "CPU":"2x Kryo HP @ 2.15GHz 2x Kryo @ 1.6GHz",
