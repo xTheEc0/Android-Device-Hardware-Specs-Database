@@ -48,8 +48,8 @@
     "SoC":"nVIDIA Tegra 3 AP33"
   },
   "eva-l19":{
-    "CPU":"4x Krait @ 1.5GHz",
-    "SoC":"Snapdragon S4 Pro APQ8084"
+    "CPU":"4x Cortex-A72 @ 2.5GHz 4x Cortex-A53 @ 1.8GHz",
+    "SoC":"HiSilicon Kirin 955"
   },
   "ford":{
     "CPU":"4x Cortex-A7 @ 1.3GHz",
