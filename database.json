@@ -83,6 +83,10 @@
     "CPU":"1x Cortex-A8 @ 1.0GHz",
     "SoC":"Exynos 3 Single 3110"
   },
+  "mako":{
+    "CPU":"4x Krait @ 1.5GHz",
+    "SoC":"Snapdragon S4 Pro (APQ8064)"
+  },
   "marlin":{
     "CPU":"2x Kryo HP @ 2.15GHz 2x Kryo @ 1.6GHz",
     "SoC":"Snapdragon 821 MSM8996 Pro"
