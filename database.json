@@ -252,8 +252,8 @@
     "SoC":"Texas Instruments OMAP4430"
   },
   "pro7plus":{
-    "CPU":"2x Cortex-A73 @ 2.6GHz ",
-    "SoC":"MediaTek Helio X30 4x Cortex-A53 @ 2.2GHz 4x Cortex-A35 @ 1.9GHz "
+    "CPU":"2x Cortex-A73 @ 2.6GHz 4x Cortex-A53 @ 2.2GHz 4x Cortex-A35 @ 1.9GHz",
+    "SoC":"MediaTek Helio X30"
   },
   "pxa986":{
     "CPU":"2x Cortex-A9 @ 1.2GHz",
