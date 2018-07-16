@@ -257,7 +257,7 @@
   },
   "pro7plus":{
     "CPU":"2x Cortex-A73 @ 2.6GHz 4x Cortex-A53 @ 2.2GHz 4x Cortex-A35 @ 1.9GHz",
-    "SoC":"MediaTek Helio X30"
+    "SoC":"MediaTek Helio X30 MT6799"
   },
   "pxa986":{
     "CPU":"2x Cortex-A9 @ 1.2GHz",
