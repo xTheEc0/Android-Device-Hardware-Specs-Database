@@ -44,3 +44,13 @@ Google Pixel 2 (non XL)
     
 	"CPU":"2x Kryo HP @ 2.15GHz 2x Kryo @ 1.6GHz",
     "SoC":"Snapdragon 821 MSM8996 Pro"
+    
+    
+    
+#Information sourced from:
+    
+TEGRA: https://en.wikipedia.org/wiki/Tegra
+EXYNOS: https://en.wikipedia.org/wiki/Exynos
+SNAPDRAGON: https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_systems-on-chip
+
+And then trial and error
