@@ -47,7 +47,7 @@ Google Pixel 2 (non XL)
     
     
     
-#Information sourced from:
+# Information sourced from:
     
 TEGRA: https://en.wikipedia.org/wiki/Tegra
 EXYNOS: https://en.wikipedia.org/wiki/Exynos
