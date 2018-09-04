@@ -231,6 +231,10 @@
     "CPU":"2x Kryo HP @ 1.8GHz 2x Kryo LP @ 1.36GHz",
     "SoC":"Snapdragon 820 MSM8996"
   },
+  "msm8996pro":{
+    "CPU":"2x Kryo HP @ 2.34GHz 2x Kryo LP @ 2.18GHz",
+    "SoC":"Snapdragon 821 MSM8996 Pro"
+  },
   "msm8998":{
     "CPU":"4x Kryo 280 HP @ 2.4GHz 4x Kryo 280 LP @ 1.9GHz",
     "SoC":"Snapdragon 835 MSM8998"
