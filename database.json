@@ -243,6 +243,10 @@
     "CPU":"8x Cortex-A53 @ 2.1GHz",
     "SoC":"MediaTek Helio X10 MT6795T"
   },
+  "mt6797m":{
+    "CPU":"2x Cortex-A72 @ 2.1GHz 4x Cortex-A53 @ 1.85GHz 4x Cortex-A53 @ 1.4GHz",
+    "SoC":"MediaTek Helio X20 MT6797M"
+  },
   "mx5":{
     "CPU":"8x Cortex-A53 @ 2.1GHz",
     "SoC":"MediaTek Helio X10 MT6795T"
