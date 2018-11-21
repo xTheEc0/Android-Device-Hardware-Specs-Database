@@ -49,8 +49,8 @@ Google Pixel 2 (non XL)
     
 # Information sourced from:
     
-TEGRA: https://en.wikipedia.org/wiki/Tegra
-EXYNOS: https://en.wikipedia.org/wiki/Exynos
-SNAPDRAGON: https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_systems-on-chip
+TEGRA: https://en.wikipedia.org/wiki/Tegra  
+EXYNOS: https://en.wikipedia.org/wiki/Exynos  
+SNAPDRAGON: https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_systems-on-chip  
 
 And then trial and error
