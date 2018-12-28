@@ -47,6 +47,10 @@
     "CPU":"4x Cortex-A57 @ 1.9GHz 4x Cortex-A53 @ 1.3GHz",
     "SoC":"nVIDIA Tegra X1 T210"
   },
+  "douglas":{
+    "CPU":"4x Cortex-A53 @ 1.3GHz",
+    "SoC":"MediaTek MT8163"
+  },
   "eeepad":{
     "CPU":"4x Atom Z2520 @ 1.2GHz",
     "SoC":"Intel Atom Z2520"
