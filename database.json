@@ -279,6 +279,10 @@
     "CPU":"2x Cortex-A9 @ 1.0GHz",
     "SoC":"nVIDIA Tegra 2 T20"
   },
+  "pacific":{
+    "CPU":"2x @ 2.1GHz 2x @ 1.6GHz",
+    "SoC":"Snapdragon 820E Embedded"
+  },
   "piranha":{
     "CPU":"2x Cortex-A9 @ 1.0GHz",
     "SoC":"Texas Instruments OMAP4430"
