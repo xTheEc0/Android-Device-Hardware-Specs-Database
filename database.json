@@ -255,6 +255,10 @@
     "CPU":"4x Kryo 280 HP @ 2.4GHz 4x Kryo 280 LP @ 1.9GHz",
     "SoC":"Snapdragon 835 MSM8998"
   },
+  "msmnile":{
+    "CPU":"4x kryo 485 Gold @ 2.8GHz 4x Kryo 485 Silver @ 1.8GHz",
+    "SoC":"Snapdragon 855 SM8150"
+  },
   "mt6795t":{
     "CPU":"8x Cortex-A53 @ 2.1GHz",
     "SoC":"MediaTek Helio X10 MT6795T"
