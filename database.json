@@ -335,6 +335,10 @@
     "CPU":"2x Kryo HP @ 2.15GHz 2x Kryo @ 1.6GHz",
     "SoC":"Snapdragon 821 MSM8996 Pro"
   },
+  "sdm660":{
+    "CPU":"4x Kryo 260 HP @ 2.2GHz 4x Kryo 260 LP @ 1.8GHz",
+    "SoC":"Snapdragon 660"
+  },
   "sc-02b":{
     "CPU":"1x Cortex-A8 @ 1.2GHz",
     "SoC":"Exynos 3 Single 3110"
