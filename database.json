@@ -283,6 +283,10 @@
     "CPU":"4x Kryo 385 Gold @ 2.8GHz 4x Kryo 385 Silver @ 1.7GHz",
     "SoC":"Snapdragon 845 SDM845"
   },
+  "monterey":{
+    "CPU":"4x Kryo 280 HP @ 2.45GHz 4x Kryo 280 LP @ 1.9GHz",
+    "SoC":"Snapdragon 835 MSM8998"
+  },
   "gt-p7510":{
     "CPU":"2x Cortex-A9 @ 1.0GHz",
     "SoC":"nVIDIA Tegra 2 T20"
