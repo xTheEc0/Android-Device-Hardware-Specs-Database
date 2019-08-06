@@ -163,6 +163,10 @@
     "CPU":"2x Krait @ 1.2GHz",
     "SoC":"Snapdragon S4 Plus MSM8930"
   },
+  "msm8937":{
+    "CPU":"4x Cortex-A53 @ 1.4GHz",
+    "SoC":"Snapdragon 425 MSM8917"
+  },
   "apq8060a":{
     "CPU":"2x Krait @ 1.5GHz",
     "SoC":"Snapdragon S4 Plus APQ8060A"
