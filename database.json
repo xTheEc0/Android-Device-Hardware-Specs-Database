@@ -303,6 +303,10 @@
     "CPU":"2x Cortex-A9 @ 1.0GHz",
     "SoC":"Texas Instruments OMAP4430"
   },
+  "pro5":{
+    "CPU":"4xCortex-56 @ 2.1GHz 4x Cortex-53 @ 1.5GHz",
+    "SoC":"Exynos 7 Octa 7420"
+  }
   "pro7plus":{
     "CPU":"2x Cortex-A73 @ 2.6GHz 4x Cortex-A53 @ 2.2GHz 4x Cortex-A35 @ 1.9GHz",
     "SoC":"MediaTek Helio X30 MT6799"
