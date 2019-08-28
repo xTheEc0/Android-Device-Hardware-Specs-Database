@@ -43,6 +43,10 @@
     "CPU":"4x Cortex-A73 @ 2.36GHz 4x Cortex-A53 @ 1.8GHz",
     "SoC":"HiSilicon Kirin 970"
   },
+  "darcy":{
+    "CPU":"4x ARM Cortex-A53 4x ARM Cortex-A57",
+    "SoC":"nVIDIA Tegra X1 T210"
+  },
   "db8520h":{
     "CPU":"2x Cortex-A9 @ 1.0GHz",
     "SoC":"NovaThor U8500"
