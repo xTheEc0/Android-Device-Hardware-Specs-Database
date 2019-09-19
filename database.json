@@ -299,6 +299,10 @@
     "CPU":"4x Kryo 280 HP @ 2.45GHz 4x Kryo 280 LP @ 1.9GHz",
     "SoC":"Snapdragon 835 MSM8998"
   },
+  "oppo6779_18073":{
+    "CPU":"2x Cortex-A75 @ 2.2GHz 6x Cortex-A55 @ 2GHz",
+    "SoC":"Mediatek MT6779 Helio P90"
+  },
   "gt-p7510":{
     "CPU":"2x Cortex-A9 @ 1.0GHz",
     "SoC":"nVIDIA Tegra 2 T20"
