@@ -379,7 +379,11 @@
     "CPU":"4x Krai 450 @ 2.65GHz",
     "SoC":"Snapdragon 805 APQ8084AB"
   },
-  "SMDKC110":{
+  "sm6150":{
+    "CPU":"2x Kryo 460 Gold @ 2GHz 6x 460 Kryo Silver @ 1.7GHz",
+    "SoC":"Snapdragon 675 SM6150"
+  },
+  "smdkc110":{
     "CPU":"1x Cortex-A8 @ 1.2GHz",
     "SoC":"Exynos 3 Single 3110"
   },
