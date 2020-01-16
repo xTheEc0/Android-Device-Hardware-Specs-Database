@@ -87,6 +87,10 @@
     "CPU":"4x Krait 300 @ 1.5GHz",
     "SoC":"Snapdragon 600 APQ8064-FLO"
   },
+  "flame":{
+    "CPU":"1x Kryo 485 Gold @ 2.8GHz 3x Kryo 485 Gold @ 2.4GHz 4x Kryo 485 Silver @ 1.7GHz",
+    "SoC":"Snapdragon 855 SM8150"
+  },
   "flounder":{
     "CPU":"2x nVidia Denver @ 2.5GHz",
     "SoC":"nVIDIA Tegra K1 T132"
