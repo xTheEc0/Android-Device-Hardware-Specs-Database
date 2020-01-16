@@ -284,7 +284,7 @@
     "SoC":"Snapdragon 835 MSM8998"
   },
   "msmnile":{
-    "CPU":"4x Kryo 485 Gold @ 2.8GHz 4x Kryo 485 Silver @ 1.8GHz",
+    "CPU":"1x Kryo 485 Gold @ 2.8GHz 3x Kryo 485 Gold @ 2.4GHz 4x Kryo 485 Silver @ 1.8GHz",
     "SoC":"Snapdragon 855 SM8150"
   },
   "mt6795t":{
