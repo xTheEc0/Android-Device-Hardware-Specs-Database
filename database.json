@@ -11,6 +11,10 @@
     "CPU":"Atom Z3745 @ 1.3GHz",
     "SoC":"Intel Atom Z3745"
   },
+  "begonia":{
+    "CPU":"2x Cortex-176 @ 2GHz 6x Cortex-A55 @ 2GHz",
+    "SoC":"MediaTek Helios G90T MT6785T"
+  },
   "blueline":{
     "CPU":"4x Kryo 385 Gold @ 2.8GHz 4x Kryo 385 Silver @ 1.75GHz",
     "SoC":"Snapdragon 845"
