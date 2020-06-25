@@ -535,6 +535,10 @@
     "CPU":"2x Cortex-A15 @ 1.5GHz 2x Cortex-A7 @ 1.2GHz",
     "SoC":"MediaTek MT8135"
   },
+  "trinket":{
+    "CPU":"4x Kryo 260 HP @ 2GHz 4x Kryo 260 LP @ 1.8GHz",
+    "SOC":"Snapdragon 665 SM6125"
+  },
   "vu2kt":{
     "CPU":"2x Krait @ 1.5GHz",
     "SoC":"Snapdragon S4 Plus MSM8960"
