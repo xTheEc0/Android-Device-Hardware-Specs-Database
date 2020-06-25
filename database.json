@@ -537,7 +537,7 @@
   },
   "trinket":{
     "CPU":"4x Kryo 260 HP @ 2GHz 4x Kryo 260 LP @ 1.8GHz",
-    "SOC":"Snapdragon 665 SM6125"
+    "SoC":"Snapdragon 665 SM6125"
   },
   "vu2kt":{
     "CPU":"2x Krait @ 1.5GHz",
