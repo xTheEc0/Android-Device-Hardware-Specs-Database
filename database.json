@@ -147,6 +147,10 @@
     "CPU":"2x Kryo HP @ 2.15GHz 2x Kryo @ 1.6GHz",
     "SoC":"Snapdragon 821 MSM8996 Pro"
   },
+  "med":{
+    "CPU":"8x Cortex-A54 @ 1.5GHz",
+    "SoC":"MediaTek MT6752R"
+  },
   "mocha":{
     "CPU":"4x Cortex-A15 @2.2GHz",
     "SoC":"nVIDIA Tegra K1 T124"
