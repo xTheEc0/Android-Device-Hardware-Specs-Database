@@ -3,6 +3,10 @@
     "CPU":"4x Cortex-A57 @ 1.95GHz 4x Cortex-A53 @ 1.55GHz",
     "SoC":"Snapdragon 810 MSM8994"
   },
+  "ane":{
+    "CPU":"4x Cortex-A54 @ 2.3GHz 4x Cortex-A54 @ 1.7GHz",
+    "SoC":"HiSilicon Kirin 659"
+  },
   "apq8084":{
     "CPU":"4x Krait 450 @ 2.65GHz",
     "SoC":"Snapdragon 805 APQ8084"
