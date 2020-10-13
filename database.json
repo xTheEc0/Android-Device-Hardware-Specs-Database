@@ -153,7 +153,7 @@
   },
   "med":{
     "CPU":"8x Cortex-A54 @ 1.5GHz",
-    "SoC":"MediaTek MT6752R"
+    "SoC":"MediaTek MT6762R"
   },
   "mocha":{
     "CPU":"4x Cortex-A15 @2.2GHz",
