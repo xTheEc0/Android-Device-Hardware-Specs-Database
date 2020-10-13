@@ -11,6 +11,10 @@
     "CPU":"4x Krait 450 @ 2.65GHz",
     "SoC":"Snapdragon 805 APQ8084"
   },
+  "art-l29":{
+    "CPU":"4x Cortex-A73 @ 2.2GHz 4x Cortex-A53 @ 1.7GHz",
+    "SoC":"HiSilicon Kirin 710F"
+  },
   "baylake":{
     "CPU":"Atom Z3745 @ 1.3GHz",
     "SoC":"Intel Atom Z3745"
