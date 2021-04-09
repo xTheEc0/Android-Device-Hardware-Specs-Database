@@ -391,6 +391,10 @@
     "CPU":"2x Exynos M4 @ 2.7GHz 2x Cortex-A75 @ 2.3GHz 4x Cortex-A55 @ 1.95GHz",
     "SoC":"Exynos 9 9820"
   },
+  "redfin":{
+    "CPU":"2x Kryo 475 Gold @ 2.4GHz 2x Kryo 475 Gold 2.2GHz 6x Kryo 475 Silver @ 1.8GHz ",
+    "SoC":"Snapdragon 765/765G"
+  },
   "saturn":{
     "CPU":"4x Krait 450 @ 2.45GHz",
     "SoC":"Snapdragon 805 APQ8084"
