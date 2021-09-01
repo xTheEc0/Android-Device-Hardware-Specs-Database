@@ -59,6 +59,10 @@
     "CPU":"4x Cortex-A73 @ 2.36GHz 4x Cortex-A53 @ 1.8GHz",
     "SoC":"HiSilicon Kirin 970"
   },
+    "dandelion":{
+    "CPU":"8x Cortex-A54 @ 1.5GHz",
+    "SoC":"MediaTek Helio G25 (MT6762G)"
+  },
   "darcy":{
     "CPU":"4x ARM Cortex-A53 4x ARM Cortex-A57",
     "SoC":"nVIDIA Tegra X1 T210"
