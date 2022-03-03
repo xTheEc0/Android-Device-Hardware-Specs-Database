@@ -7,6 +7,10 @@
     "CPU":"4x Cortex-A54 @ 2.3GHz 4x Cortex-A54 @ 1.7GHz",
     "SoC":"HiSilicon Kirin 659"
   },
+    "atlas":{
+    "CPU":"-",
+    "SoC":"Intel(R) Core(TM) i5-8200Y @ 1.3GHz"
+  },
   "apq8084":{
     "CPU":"4x Krait 450 @ 2.65GHz",
     "SoC":"Snapdragon 805 APQ8084"
