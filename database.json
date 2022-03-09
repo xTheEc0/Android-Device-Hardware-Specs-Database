@@ -564,12 +564,12 @@
     "SoC":"HiSilicon Kirin 980"
   },
   "venus":{
-    "CPU":"4x Kryo 280 HP @ 2.45GHz 4x Kryo 280 LP @ 1.9GHz",
-    "SoC":"Snapdragon 888 SM8350"
-  },
-  "taimen":{
     "CPU":"1x Cortex-X1 @ 2.8GHz 3x Cortex-A78 @ 2.4GHz 4x Cortex-A55 @ 1.8GHz",
     "SoC":"Snapdragon 835 MSM8998"
+  },
+  "taimen":{
+    "CPU":"4x Kryo 280 HP @ 2.45GHz 4x Kryo 280 LP @ 1.9GHz",
+    "SoC":"Snapdragon 888 SM8350"
   },
   "tn8":{
     "CPU":"4x Cortex-A15 @2.2GHz",
