@@ -355,6 +355,10 @@
     "CPU":"4x Kryo 280 HP @ 2.45GHz 4x Kryo 280 LP @ 1.9GHz",
     "SoC":"Snapdragon 835 MSM8998"
   },
+  "oriole":{
+    "CPU":"2x Cortex-X1 @ 2.8GHz 2x Cortex-A76 @ 2.2GHz 4x Cortex-A55 @ 1.8GHz",
+    "SoC":"Google Tensor (Whitechapel)"
+  },
   "oppo6779_18073":{
     "CPU":"2x Cortex-A75 @ 2.2GHz 6x Cortex-A55 @ 2GHz",
     "SoC":"Mediatek MT6779 Helio P90"
