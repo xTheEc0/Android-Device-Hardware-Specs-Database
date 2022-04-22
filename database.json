@@ -104,7 +104,7 @@
     "SoC":"Exynos 990"
   },
     "exynos2100":{
-    "CPU":"1x Cortex-X1 @ 2.9GHz 3x Cortex-A78 @2.8GHz 4x Cortex-A55 @2.2GHz",
+    "CPU":"1x Cortex-X1 @ 2.9GHz 3x Cortex-A78 @ 2.8GHz 4x Cortex-A55 @ 2.2GHz",
     "SoC":"Exynos 2100"
   },
   "ford":{
