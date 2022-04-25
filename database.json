@@ -63,6 +63,10 @@
     "CPU":"4x Cortex-A73 @ 2.36GHz 4x Cortex-A53 @ 1.8GHz",
     "SoC":"HiSilicon Kirin 970"
   },
+    "els":{
+    "CPU":"4x Cortex-A76 @ 2.8GHz 4x Cortex-A55 @ 1.9GHz",
+    "SoC":"HiSilicon Kirin 990 5G"
+  },
     "dandelion":{
     "CPU":"8x Cortex-A54 @ 1.5GHz",
     "SoC":"MediaTek Helio G25 (MT6762G)"
