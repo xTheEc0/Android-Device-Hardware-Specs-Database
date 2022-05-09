@@ -15,7 +15,7 @@
     "CPU":"4x Krait 450 @ 2.65GHz",
     "SoC":"Snapdragon 805 APQ8084"
   },
-    "atoll-ab":{
+  "atoll-ab":{
     "CPU":"2x Kryo 465 Gold @ 2.3GHz 6x Kryo 465 Silver @ 1.8GHz",
     "SoC":"Snapdragon 720G (SM7125)"
   },
