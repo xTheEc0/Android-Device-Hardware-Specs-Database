@@ -434,7 +434,7 @@
   "s5e9925":{
     "CPU":"1x Cortex-X2 @ 2.8GHZ 3x Cortex-A710 @ 2.5GHz 4x Cortex-A510 @ 1.8GHz",
     "SoC":"Exynos 2200"
-  }.
+  },
   "saturn":{
     "CPU":"4x Krait 450 @ 2.45GHz",
     "SoC":"Snapdragon 805 APQ8084"
