@@ -111,6 +111,10 @@
     "CPU":"4x Cortex-A55 @ 2GHz 2x Cortex-A76 @ 2.5GHz 2x Exynos M5 @ 2.7GHz",
     "SoC":"Exynos 990"
   },
+  "exynos9611":{
+    "CPU":"4x Cortex-A73 @ 2.3GHz 4x Cortex-A53 @ 1.7GHz",
+    "SoC":"Exynos 7 Octa (9611)"
+  },
     "exynos2100":{
     "CPU":"1x Cortex-X1 @ 2.9GHz 3x Cortex-A78 @ 2.8GHz 4x Cortex-A55 @ 2.2GHz",
     "SoC":"Exynos 2100"
