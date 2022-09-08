@@ -367,6 +367,10 @@
     "CPU":"1x Cortex-A9 @ 1.0GHz",
     "SoC":"MediaTek MT6575"
   },
+  "noh":{
+    "CPU":"4x Cortex-A77 @ 3.1GHz 4x Cortex-A55 @ 2.0GHz",
+    "SoC":"HiSilicon Kirin 9000"
+  },
   "sdm710":{
     "CPU":"2x Kryo 385 Gold @ 2.2GHz 6x Kryo 385 Silver @ 1.7GHz",
     "SoC":"Snapdragon 710 SDM710"
