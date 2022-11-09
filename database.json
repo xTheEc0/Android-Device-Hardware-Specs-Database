@@ -423,6 +423,10 @@
     "CPU":"1x Cortex-A9 @ 0.9GHz",
     "SoC":"Broadcom BCM21654"
   },
+  "panther":{
+    "CPU":"1x Cortex-X1 @ 2.8GHz 2x Cortex-A78 @ 2.3GHz 4x Cortex-A55 @ 1.8GHz",
+    "SoC":"Google Tensor G2"
+  },
   "prada":{
     "CPU":"4x Cortex-A53 @ 1.4 GHz 4x Cortex-A53 @ 1.1GHz",
     "SoC":"Snapdragon 430 MSM8937"
