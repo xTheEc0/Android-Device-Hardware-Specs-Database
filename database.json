@@ -487,10 +487,6 @@
     "CPU":"1x Cortex-A8 @ 1.2GHz",
     "SoC":"Exynos 3 Single 3110"
   },
-  "tuna":{
-    "CPU":"2x Cortex-A9 @ 1.2GHz",
-    "SoC":"TI OMAP 4460"
-  },
   "universal3250":{
     "CPU":"2x Cortex-A7 @ 1.0GHz",
     "SoC":"Exynos 2 Dual 3250"
@@ -618,6 +614,10 @@
   "tn8":{
     "CPU":"4x Cortex-A15 @2.2GHz",
     "SoC":"nVIDIA Tegra K1 T124"
+  },  
+  "taro":{
+    "CPU":"1x Cortex-X2 @ 3GHz 3x Cortex-A710 @ 2.5GHz 4x Cortex-A510 @ 1.8GHz",
+    "SoC":"Snapdragon 8 Gen 1 (SM8450)"
   },
   "thebes":{
     "CPU":"2x Cortex-A15 @ 1.5GHz 2x Cortex-A7 @ 1.2GHz",
@@ -626,6 +626,10 @@
   "trinket":{
     "CPU":"4x Kryo 260 HP @ 2GHz 4x Kryo 260 LP @ 1.8GHz",
     "SoC":"Snapdragon 665 SM6125"
+  },
+  "tuna":{
+    "CPU":"2x Cortex-A9 @ 1.2GHz",
+    "SoC":"TI OMAP 4460"
   },
   "vu2kt":{
     "CPU":"2x Krait @ 1.5GHz",
