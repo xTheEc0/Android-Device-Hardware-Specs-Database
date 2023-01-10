@@ -7,6 +7,10 @@
     "CPU":"4x Cortex-A54 @ 2.3GHz 4x Cortex-A54 @ 1.7GHz",
     "SoC":"HiSilicon Kirin 659"
   },
+  "amar_row_wifi":{
+    "CPU":"8x Cortex-A53 @ 1.8GHz",
+    "SoC":"Mediatek MT8768"
+  }, 
   "atlas":{
     "CPU":"-",
     "SoC":"Intel(R) Core(TM) i5-8200Y @ 1.3GHz"
