@@ -187,6 +187,10 @@
     "CPU":"5 Compute cores 2C+3G",
     "SoC":"AMD A4-9120C Radeon R4"
   },
+  "lito":{
+    "CPU":"2x Cortex-A77 @ 2.1GHz 6x Kryo 560 Silver @ 1.7GHz",
+    "SoC":"Snapdragon 690 SM6350"
+  },
   "lya":{
     "CPU":"2x Cortex-A76 @ 2.6GHz 2x Cortex-A76 @ 1.9GHz 4x Cortex-A55 @ 1.8GHz",
     "SoC":"HiSilicon Kirin 980"
