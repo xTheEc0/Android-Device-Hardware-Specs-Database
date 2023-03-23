@@ -175,6 +175,10 @@
     "CPU":"2x Cortex-A76 @ 2Ghz 6x Cortex-A55 @ 2GHz",
     "SoC":"MediaTek Dimensity 720 (MT6853)"
   },
+  "kalama":{
+    "CPU":"1x Cortex-X3 @ 3.3GHz 2x Cortex-A710 @ 2.8GHz 2x Cortex-A715 @ 2.8GHz 3x Cortex-A510 @ 2.0GHz",
+    "SoC":"Snapdragon 8 Gen 2 (SM8550)"
+  },
   "kona":{
     "CPU":"1x Cortex-A77 @ 3.1GHz 3x Cortex-A77 @ 2.4GHz 4x Kryo 585 Silver @ 1.8GHz",
     "SoC":"Snapdragon 865 SM8250"
