@@ -667,7 +667,7 @@
     "CPU":"4x Cortex-A5 @ 1.2GHz",
     "SoC":"Snapdragon 200 MSM8225Q"
   },
-  "a12nseea":{
+  "MT6765V":{
     "CPU":"Octa-core (4x2.35 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
     "SoC":"Mediatek MT6765 Helio P35 (12nm)"
   }
