@@ -511,6 +511,10 @@
     "CPU":"1x Cortex-A8 @ 1.2GHz",
     "SoC":"Exynos 3 Single 3110"
   },
+  "ums512_25c10": {
+    "CPU":"2 Cortex-A75 @2GHz 6x Cortex-A55 @ 2 GHz",
+    "SoC":"Unisoc Tiger T618"
+  },
   "universal3250":{
     "CPU":"2x Cortex-A7 @ 1.0GHz",
     "SoC":"Exynos 2 Dual 3250"
