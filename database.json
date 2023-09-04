@@ -674,5 +674,9 @@
   "k65v1_64_bsp_titan_rat":{
     "CPU":"Octa-core (4x2.35 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
     "SoC":"Mediatek MT6765 Helio P35 (12nm)"
+  },
+  "careena":{
+    "CPU":"AMD 670F00h",
+    "SoC":"AMD A4-9120C RADEON R4, 5 COMPUTE CORES 2C+3G"
   }
 }
