@@ -635,6 +635,10 @@
     "CPU":"1x Cortex-X1 @ 2.8GHz 3x Cortex-A78 @ 2.4GHz 4x Cortex-A55 @ 1.8GHz",
     "SoC":"Snapdragon 888 SM8350"
   },
+  "vtr":{
+    "CPU":"4x Cortex-A73 @ 2.4GHz 4x Cortex-A53 @ 1.8GHz",
+    "SoC":"HiSilicon Kirin 960"
+  },
   "taimen":{
     "CPU":"4x Kryo 280 HP @ 2.45GHz 4x Kryo 280 LP @ 1.9GHz",
     "SoC":"Snapdragon 835 MSM8998"
