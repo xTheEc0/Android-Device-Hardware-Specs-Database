@@ -131,6 +131,10 @@
     "CPU":"4x Exynos M3 @ 2.7GHz 4x Cortex-A55 @ 1.8GHz",
     "SoC":"Exynos 9 (9810)"
   },
+    "exynos9820":{
+    "CPU":"2 Exynos M4 @ 2.7GHz 2x Cortex-A75 @ 2.3GHz 4x Cortex-A55 @ 1.9GHz",
+    "SoC":"Exynos 9 (9820)"
+  },
   "ford":{
     "CPU":"4x Cortex-A7 @ 1.3GHz",
     "SoC":"MediaTek MT8127"
