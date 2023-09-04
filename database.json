@@ -1,4 +1,8 @@
 {
+  "a32x":{
+    "CPU":"2x Cortex-A76 @ 2GHz 6x Cortex-A55 @ 2GHz",
+    "SoC":"MediaTek Dimensity 720 (MT6853)"
+  },
   "angler":{
     "CPU":"4x Cortex-A57 @ 1.95GHz 4x Cortex-A53 @ 1.55GHz",
     "SoC":"Snapdragon 810 MSM8994"
