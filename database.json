@@ -683,6 +683,10 @@
     "CPU":"4x Cortex-A5 @ 1.2GHz",
     "SoC":"Snapdragon 200 MSM8225Q"
   },
+  "zs600kl":{
+    "CPU":"4x Kryo 385 Gold @ 3GHz 4x Kryo 385 Silver @ 1.8GHz",
+    "SoC":"Snapdragon 845"
+  },
    "mt6765v":{
     "CPU":"Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
     "SoC":"Mediatek MT6765G Helio G35 (12 nm)"
