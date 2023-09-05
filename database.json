@@ -694,5 +694,9 @@
   "careena":{
     "CPU":"AMD 670F00h",
     "SoC":"AMD A4-9120C RADEON R4, 5 COMPUTE CORES 2C+3G"
+  },
+  "sion":{
+    "CPU":"i3-8130U CPU 2,2 GHz soc",
+    "SoC":"i3-8130U CPU 2,2 GHz soc"
   }
 }
