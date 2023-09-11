@@ -706,5 +706,9 @@
   "sion":{
     "CPU":"i3-8130U CPU 2,2 GHz soc",
     "SoC":"i3-8130U CPU 2,2 GHz soc"
+  },
+  "biloba":{
+    "CPU":"Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+    "SoC":"Mediatek MT6769Z Helio G85 (12nm)"
   }
 }
