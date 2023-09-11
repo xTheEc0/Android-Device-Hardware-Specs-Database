@@ -111,6 +111,10 @@
     "CPU":"4x Cortex-A73 @ 2.36GHz 4x Cortex-A53 @ 1.8GHz",
     "SoC":"HiSilicon Kirin 970"
   },
+  "eve":{
+    "CPU":"i5-7Y56 @ 1.2GHz",
+    "SoC":"Ambel Lake-Y / Kaby Lake-U/Y"
+  },
   "eva-l19":{
     "CPU":"4x Cortex-A72 @ 2.5GHz 4x Cortex-A53 @ 1.8GHz",
     "SoC":"HiSilicon Kirin 955"
