@@ -71,6 +71,10 @@
     "CPU":"2x Cortex-X1 @ 2.8GHz 2x Cortex-A78 @ 2.3GHz 4x Cortex-A55 @ 1.8GHz",
     "SoC":"Google Tensor G2 (GS201)"
   },
+  "tangorpro":{
+    "CPU":"2x Cortex-X1 @ 2.8GHz 2x Cortex-A78 @ 2.3GHz 4x Cortex-A55 @ 1.8GHz",
+    "SoC":"Google Tensor G2 (GS201)"
+  },
   "codina":{
     "CPU":"2x Cortex-A9 @ 1.0GHz",
     "SoC":"NovaThor U8500"
