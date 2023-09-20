@@ -207,6 +207,10 @@
     "CPU":"1x Cortex-A77 @ 3.1GHz 3x Cortex-A77 @ 2.4GHz 4x Kryo 585 Silver @ 1.8GHz",
     "SoC":"Snapdragon 865 SM8250"
   },
+  "kohaku":{
+    "CPU":"i5-10210U @ 1.6GHz",
+    "SoC":"Comet Lake-U"
+  },
    "lahaina":{
     "CPU":"1x Cortex-X1 @ 2.8GHz 3x Cortex-A78 @ 2.4GHz 4x Cortex-A55 @ 1.8GHz",
     "SoC":"Snapdragon 888"
