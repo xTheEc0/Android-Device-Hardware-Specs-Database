@@ -738,5 +738,9 @@
   "krane":{
     "CPU":"(4x Cortex-A73 @ 2.0GHz + 4x Cortex-A53 @ 2.0GHz)",
     "SoC":"MediaTekHelio P60T (12nm)"
+  },
+  "pineapple":{
+    "CPU":"Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+    "SoC":"Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)"
   }
 }
