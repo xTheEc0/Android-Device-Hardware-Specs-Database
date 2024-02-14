@@ -741,6 +741,10 @@
   },
   "pineapple":{
     "CPU":"Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
-    "SoC":"Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)"
+    "SoC":"Qualcomm SM8650-AB Snapdragon 8 Gen 3"
+  },
+  "s5e9945":{
+    "CPU":"10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520)",
+    "SoC":"Exynos 2400"
   }
 }
