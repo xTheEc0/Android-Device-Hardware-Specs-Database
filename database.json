@@ -746,5 +746,9 @@
   "s5e9945":{
     "CPU":"10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520)",
     "SoC":"Exynos 2400"
+  },
+  "a12":{
+    "CPU":"Octa-core (4x2.35 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
+    "SoC":"MediaTek Helio P35 (MT6765)"
   }
 }
