@@ -531,6 +531,10 @@
     "CPU":"4x Krai 450 @ 2.65GHz",
     "SoC":"Snapdragon 805 APQ8084AB"
   },
+  "shiba":{
+    "CPU":"1x Cortex-X3 @ 2.9GHz 4x Cortex-A715 @ 2.3GHz 4x Cortex-A510 @ 1.7GHz",
+    "SoC":"Google Tensor G3 (GS301)"
+  },
   "sm6150":{
     "CPU":"2x Kryo 460 Gold @ 2GHz 6x 460 Kryo Silver @ 1.7GHz",
     "SoC":"Snapdragon 675 SM6150"
