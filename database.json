@@ -67,6 +67,10 @@
     "CPU":"2x Cortex-X1 @ 2.8GHz 2x Cortex-A78 @ 2.3GHz 4x Cortex-A55 @ 1.8GHz",
     "SoC":"Google Tensor G2 (GS201)"
   },
+  "comet":{
+    "CPU":"1x Cortex-X4 @ 31.GHz 3x Cortex-A720 @ 2.6GHz 4x Cortex-A520 @ 1.95GHz",
+    "SoC":"Google Tensor G4 (GS401)"
+  },
   "eureka":{
     "CPU":"6x Cortex-A78C @ 2.3 GHz",
     "SoC":"Snapdragon XR2 Gen 2 (SM8550)"
