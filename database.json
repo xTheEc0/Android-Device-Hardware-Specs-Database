@@ -183,6 +183,10 @@
     "CPU":"2x Cortex-A77 @ 2.2GHz 6x Kryo 460 Silver @ 1.8GHz",
     "SoC":"Snapdragon 690/750G 5G"
   },
+  "frankel":{
+    "CPU":"1x Cortex-X4 @ 3.8GHz 5x Cortex-A725 @ 3GHz 2x COrtex-A520 @ 2.2GHz",
+    "SoC":"Google Tensor G5 (GS5501)"
+  },
   "g3u":{
     "CPU":"2x Cortex-A5 @ 1.0GHz",
     "SoC":"Snapdragon S4 Play MSM8225"
