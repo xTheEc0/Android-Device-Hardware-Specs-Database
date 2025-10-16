@@ -184,7 +184,7 @@
     "SoC":"Snapdragon 690/750G 5G"
   },
   "frankel":{
-    "CPU":"1x Cortex-X4 @ 3.8GHz 5x Cortex-A725 @ 3GHz 2x COrtex-A520 @ 2.2GHz",
+    "CPU":"1x Cortex-X4 @ 3.8GHz 5x Cortex-A725 @ 3GHz 2x Cortex-A520 @ 2.2GHz",
     "SoC":"Google Tensor G5 (GS5501)"
   },
   "g3u":{
