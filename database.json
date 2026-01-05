@@ -515,6 +515,10 @@
     "CPU":"1x Cortex-X2 @ 2.8GHZ 3x Cortex-A710 @ 2.5GHz 4x Cortex-A510 @ 1.8GHz",
     "SoC":"Exynos 2200"
   },
+  "s9863a1h10":{
+    "CPU":"8x Cortex-A55 @ 1.6GHz",
+    "SoC":"Unisoc SC9863A"
+  },
   "saturn":{
     "CPU":"4x Krait 450 @ 2.45GHz",
     "SoC":"Snapdragon 805 APQ8084"
