@@ -47,6 +47,10 @@
     "CPU":"4x Cortex-A57 @ 1.8GHz 4x Cortex-A53 @ 1.44GHz",
     "SoC":"Snapdragon 808"
   },
+  "canoe":{
+    "CPU":"2x Oryon @ 4.7GHz 6x Oryon @ 3.6GHz",
+    "SoC":"Snapdragon 8 Elite Gen 5 (SM8850)"
+  },
   "capri":{
     "CPU":"2x Cortex-A9 @ 1.2GHz",
     "SoC":"Broadcom BCM28155"
