@@ -775,6 +775,10 @@
     "CPU":"1x Cortex-X4 @ 3.2GHz 2x Cortex-A720 @ 2.9GHz 3x Cortex-A720 @ 2.6GHz 4x Cortex-A520 @ 2.0GHz", 
     "SoC":"Exynos 2400"
   },
+  "s5e9965":{
+    "CPU":"1x C1-Ulta @ 3.8GHz 3x C1-Pro @ 3.2GHz 6x C1-Pro @ 2.7GHz", 
+    "SoC":"Exynos 2600"
+  },
   "a12":{
     "CPU":"4x Cortex-A53 @ 2.35GHz 4x Cortex-A53 @ 1.8GHz",
     "SoC":"MediaTek Helio P35 (MT6765)"
