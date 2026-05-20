@@ -235,6 +235,10 @@
     "CPU":"i5-10210U @ 1.6GHz",
     "SoC":"Comet Lake-U"
   },
+    "klimt":{
+    "CPU":"MediaTek Dimensity 9400+ (MT6991)",
+    "SoC":"1x Cortex-X925 @ 3.7GHz 3x Cortex-X4 @ 3.3GHz 4x Cortex-A720 @ 2.4GHz"
+  },
    "lahaina":{
     "CPU":"1x Cortex-X1 @ 2.8GHz 3x Cortex-A78 @ 2.4GHz 4x Cortex-A55 @ 1.8GHz",
     "SoC":"Snapdragon 888"
