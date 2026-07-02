@@ -199,6 +199,10 @@
     "CPU":"2x Cortex-A5 @ 1.0GHz",
     "SoC":"Snapdragon S4 Play MSM8225"
   },
+  "garnet":{
+    "CPU":"4x Cortex-A78 @ 2.4GHz 4x Cortex-A55 @ 1.9GHz",
+    "SoC":"Snapdragon 7s Gen 2 (SM7435-AB)"
+  },
   "gee":{
     "CPU":"4x Krait 300 @ 1.5GHz",
     "SoC":"Snapdragon S4 Pro APQ8064"
